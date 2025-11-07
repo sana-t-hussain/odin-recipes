@@ -1,0 +1,14 @@
+.title {
+    font-family: Arial, Georgia, Times, 'Times New Roman', serif, sans-serif;
+    font-size: 20pt;
+    color: #620452;
+    background-color: #B8F5FC;
+    text-align: center;
+}
+
+.recipe-link {
+    margin: 10px;
+    padding: 0 10px;
+    font-size: medium;
+    color: #43a294;
+}
